@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
