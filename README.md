@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Add docs guide terminal images (#8819)
