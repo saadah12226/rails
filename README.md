@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
