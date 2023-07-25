@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
