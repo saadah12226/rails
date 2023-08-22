@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
