@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update format.yml to pull_request_target (#7460)
