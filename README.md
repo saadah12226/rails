@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Mkdocs updates (#8008)
