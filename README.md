@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+ultralytics 8.0.228 add training time argument (#7054)
