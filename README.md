@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Update format.yml to pull_request_target (#7460)
