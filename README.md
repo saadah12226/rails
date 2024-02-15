@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Add docs links to all dataset YAMLs (#7360)
