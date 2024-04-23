@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Elaborate Train and Predict mode docs arguments (#8137)
