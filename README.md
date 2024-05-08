@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
