@@ -1,1 +1,1 @@
-fix predict with class filter
+YAML reformat (#7669)
