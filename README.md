@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Add new YOLOv8 OBB model metrics (#7379)
