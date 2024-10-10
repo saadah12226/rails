@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Allow Annotator PIL.Image inputs (#8397)
